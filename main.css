@@ -36,3 +36,8 @@ h3 {
 .info p{
     padding: 6px;
 }
+.grid:after {
+    content: "";
+    display: table;
+    clear: both;
+}
