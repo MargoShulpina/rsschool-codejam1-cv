@@ -15,3 +15,12 @@ h2 {
    font-size: 40;
    font: serif;
 }
+header p{
+    text-align: right;
+    font-style: italic;
+}
+h3 {
+    background-color: azure ;
+    text-transform: uppercase;
+    text-align: center;
+}
