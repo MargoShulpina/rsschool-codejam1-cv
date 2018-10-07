@@ -1,0 +1,17 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    position: relative;
+    top:25px;
+}
+h2 {
+    background: url(fon.png) repeat center center;
+    background-size: 22%; 
+    height: 55px;
+    text-align: center;
+   font-weight: bold;
+   font-size: 40;
+   font: serif;
+}
