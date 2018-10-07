@@ -1,0 +1,43 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-content: center;
+    width: 1024px;
+    margin: 0 auto;
+    position: relative;
+    top:25px;
+}
+h2 {
+    background: url(fon.png) repeat center center;
+    background-size: 22%; 
+    height: 55px;
+    text-align: center;
+   font-weight: bold;
+   font-size: 40;
+   font: serif;
+}
+header p{
+    text-align: right;
+    font-style: italic;
+}
+h3 {
+    background-color: azure ;
+    text-transform: uppercase;
+    text-align: center;
+}
+.info{
+    float: left;
+    width: 48.4%;
+    border: 3px solid black;
+    border-radius: 10px;
+    height:230px;
+    background-color: beige;
+    margin: 5px;
+}
+.info p{
+    padding: 6px;
+}
+.grid:after {
+    content: "";
+    display: table;
+    clear: both;
+}
